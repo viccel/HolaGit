@@ -18,4 +18,6 @@ public class HolaGit {
         System.out.println("Hola git...");
     }
     
+    public void addedMethod(){}
+    
 }
