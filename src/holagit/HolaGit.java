@@ -18,4 +18,8 @@ public class HolaGit {
         System.out.println("Hola git...");
     }
     
+    public void addedMethod(String clave){
+        System.out.println("-- clave " + clave);
+    }
+    
 }
